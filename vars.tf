@@ -14,7 +14,7 @@ variable "cluster_name" {
 
 variable "initial_node_count" {
     description = "initial amount of nodes to deploy for the kubernetes cluster"
-    default     = "1"6. At this point
+    default     = "1"
 }
 
 variable "network" {
